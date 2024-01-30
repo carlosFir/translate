@@ -7,3 +7,4 @@ Modify an English-French translation transformer to a chemical reaction predicti
    2.2. replace the input of decoder with different sequence
 3. wrap .ipynb to .py file and generate a config file for convenient use.
 4. find a way to train the model in distributed mechines to speed up.
+5. check the teacher foring and apply teacher foring ratio.
